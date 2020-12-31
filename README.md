@@ -9,7 +9,8 @@ Flask(플라스크) 웹프레임워크를 통한 간단한 웹페이지 제작 �
   > *model.py = db model   
    *forms.py = view   
    *app.py = controller   
-  
+
+*Pythonanywhere를 통해 배포 
 
 [http://jun97.pythonanywhere.com/](http://jun97.pythonanywhere.com/)
 
